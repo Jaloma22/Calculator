@@ -21,5 +21,5 @@
 using namespace std;
 
 int main() {
-    printf("Hello World!!... Again again.");
+    printf("Hello World!!");
 }
